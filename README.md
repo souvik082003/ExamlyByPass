@@ -19,7 +19,7 @@ We've completely overhauled the extension for a smoother, faster, and stealthier
 | **Setup** | Manual API Configuration | **Automatic API Configuration** |
 | **Shortcuts** | Visible List on Popup | **Hidden** (Clean UI) |
 | **Stealth** | Manual Toggles | **"Agent Smith" Mode** (Auto-Hides) |
-| **Code Copy** | Basic Text Copy | **Smart Copy** (Starter + Main + Footer) |
+| **Code Copy** | No Code Copy | **Smart Copy** (Starter + Main + Footer) |
 
 ---
 
