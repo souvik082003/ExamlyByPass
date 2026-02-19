@@ -45,7 +45,7 @@ Follow this routine to maximize your exam performance:
 
 ### Phase 1: Setup (The Warm-up)
 1.  **Install**: Load the unpacked extension (see Installation below).
-2.  **Verify**: Click the extension icon. You should see the clean **Light Mode** popup with the "NeoExamShield" title and your GitHub link. **No input needed.**
+2.  **Verify**: Click the extension icon. You should see the clean **Light Mode** popup with the "NeoExamShield" title **No input needed.**
 
 ### Phase 2: Action (The Workout)
 -   **Solve MCQs**: Select the question text and press <kbd>Alt</kbd> + <kbd>Shift</kbd> + <kbd>Q</kbd>.
