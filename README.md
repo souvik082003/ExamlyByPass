@@ -40,6 +40,10 @@ Copying code just got smarter. When you copy code from the editor:
 - **`NeoExamShield Bypass`** : Break free from Examly's limitations.
 - **`Tab Switching Bypass`** : Prevents unwanted tab switch restrictions
 - **`Pasting When Restricted`** : Quickly paste answers with ease
+- **`Exam Toggle Button Issue`** : The message toggle button previously appeared when the exam started,
+  which could be visible to the teacher.
+  This issue has now been fixed, and the toggle button will no longer appear after the exam starts.
+
 
 ## 🏋️ Full Workout Plan (Usage Guide)
 
