@@ -3,6 +3,8 @@
 
 
 This chrome extension is for students taking tests on the **`Iamneo portal`**.
+> ⚠️ **Disclaimer:** This project is intended for educational purposes only.
+
 
 <samp>
 
