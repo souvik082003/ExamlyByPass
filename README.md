@@ -1,16 +1,16 @@
 
-# <i>**`Free`** NeoExamShield Extension v1.5.1</i>
+# <i>**`Free`** NeoExamShield Extension</i>
 
 
 This chrome extension is for students taking tests on the **`Iamneo portal`**.
 
 <samp>
 
-## 🚀 New in v1.5.1: What's Changed?
+## 🚀 New in: What's Changed?
 
 We've completely overhauled the extension for a smoother, faster, and stealthier experience.
 
-| Feature | Old Version | 🆕 New Version v1.5.1 |
+| Feature | Old Version | 🆕 New Version |
 | :--- | :--- | :--- |
 | **Access** | Required "Enter Access Key" | **Auto-Unlock** (No Key Needed) |
 | **Theme** | Dark Mode Only | **Light Mode** (Clean & Professional) |
@@ -24,7 +24,7 @@ We've completely overhauled the extension for a smoother, faster, and stealthier
 ## 🔥 Features & "Agent Smith" Stealth
 
 ### 1. "Agent Smith" Stealth Mode 🕶️
-**Gone are the manual toggles.** The "Agent Smith" protocol now activates automatically when an exam starts. 
+**Gone are the manual toggles.** The "Agent Smith" protocol now not activates automatically when an exam starts. 
 - **Auto-Hide**: The extension removes its own UI traces to prevent detection.
 - **Anti-Anti-Debug**: Automatically counters debugger detection scripts.
 - **No User Action Required**: It just works in the background.
@@ -35,31 +35,9 @@ Copying code just got smarter. When you copy code from the editor:
 - **Formatted**: Preserves structure for easy pasting into your IDE or AI tool.
 
 ### 3. Core Features
-- **`NPTEL Integration`** : Solve NPTEL Wildlife ecology answers
 - **`NeoExamShield Bypass`** : Break free from Examly's limitations.
-- **`Chatbot With Stealth Mode`** : Leverage AI Chatbot (Alt+C) to enhance your search capabilities
-- **`Solve MCQ`** : Quickly Search MCQ Answers by simply selecting
 - **`Tab Switching Bypass`** : Prevents unwanted tab switch restrictions
 - **`Pasting When Restricted`** : Quickly paste answers with ease
-
----
-
-## 🥊 NeoExamShield vs NeoPass
-
-Which tool is right for you?
-
-| Feature | NeoExamShield (Extension) | NeoPass (Browser) |
-| :--- | :--- | :--- |
-| **Type** | Chrome Extension | Standalone Browser |
-| **AI Power** | Bring Your Own Key | **GPT-5.1 Managed AI** |
-| **Cost** | **Free Forever** | Premium Subscription |
-| **Bypass Level** | Extension-level | **System-level** (Undetectable) |
-| **Exam Helper** | External | **Built-in & Integrated** |
-| **Setup** | Light | **Zero Setup** |
-
-> **Want the ultimate advantage?** Upgrade to Pro at **neopass.tech/pro** for NeoPass.
-
----
 
 ## 🏋️ Full Workout Plan (Usage Guide)
 
@@ -78,24 +56,6 @@ Follow this routine to maximize your exam performance:
 
 ### Phase 3: Stealth (Cool-down)
 -   **Agent Smith**: Relax. The extension automatically hides its tracks. You don't need to toggle anything.
-
----
-
-## ⌨️ Shortcuts Reference
-
-### Windows/Linux:
-- <kbd>Alt</kbd> + <kbd>Shift</kbd> + <kbd>Q</kbd> : **Solve Question** (MCQs/Coding)
-- <kbd>Alt</kbd> + <kbd>Shift</kbd> + <kbd>T</kbd> : **Type Code** (Auto-type solution)
-- <kbd>Alt</kbd> + <kbd>Shift</kbd> + <kbd>S</kbd> : **Smart Search** (Selected text)
-- <kbd>Alt</kbd> + <kbd>C</kbd> : **Toggle Chatbot**
-
-### Mac Users:
-- <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>Q</kbd> : **Solve Question**
-- <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>T</kbd> : **Type Code**
-- <kbd>Option</kbd> + <kbd>Shift</kbd> + <kbd>S</kbd> : **Smart Search**
-- <kbd>Option</kbd> + <kbd>C</kbd> : **Toggle Chatbot**
-
----
 
 ## ⬇️ Installation
 
