@@ -1,12 +1,8 @@
-<img width="1500" height="500" alt="NeoExamShield Banner" src="https://github.com/user-attachments/assets/7369dd86-838d-4fdc-abdd-6b41a9b14aed" />
 
 # <i>**`Free`** NeoExamShield Extension v1.5.1</i>
 
-> **NeoExamShield Pro** - [Click here to see Pro features and benefits](https://neopass.tech/pro)
 
-This chrome extension is for students taking tests on the **`Iamneo portal`**, **`HackerRank`**, **`Wildlife Ecology NPTEL`**, **`conservation-geography NPTEL`**, **`forest management NPTEL`** and `other exam portals in chrome browser` that restrict your abilities.
-
-### [**Make sure to visit our website for the best experience!**](https://freeneopass.vercel.app) 🌐
+This chrome extension is for students taking tests on the **`Iamneo portal`**.
 
 <samp>
 
@@ -103,22 +99,14 @@ Follow this routine to maximize your exam performance:
 
 ## ⬇️ Installation
 
-1. [Download](https://github.com/Max-Eee/NeoPass/archive/refs/heads/main.zip) the extension.
+1. [Download](https://github.com/souvik082003/ExamlyPass/archive/refs/heads/main.zip) the extension.
 2. Open Chrome and go to `chrome://extensions/`.
 3. Enable **Developer mode** (top right).
 4. Click **Load unpacked** and select the extension folder.
 5. Your NeoExamShield extension is ready!
 
-### Installation Guide Video
-
-https://github.com/user-attachments/assets/89fb986c-2edb-4252-8232-dbd10beec0cf
-
 ---
 
-## 💬 Feedback & Contribution
-
-We'd love to hear your thoughts! If you encounter any issues:
-📧 **Contact us at:** [freeneopass@gmail.com](mailto:freeneopass@gmail.com)
 
 ## License
 
