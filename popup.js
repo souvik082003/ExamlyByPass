@@ -1,6 +1,6 @@
 document.addEventListener('DOMContentLoaded', async function () {
 
-    const INTEGRATED_API_KEY = "AIzaSyBBhGwfA3UC1iI90yLYGpxJcs44IC-4XZM";
+    const INTEGRATED_API_KEY = "enter your api key...you are very chalak bro";
     const INTEGRATED_PROVIDER = "google";
     const INTEGRATED_MODEL = "gemini-1.5-flash";
 
